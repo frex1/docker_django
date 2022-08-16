@@ -1,0 +1,4 @@
+app/.dockerignore
+app/.vscode
+venv/
+app/.env
